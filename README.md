@@ -9,4 +9,5 @@ Part of the work *"Quantile over Data Streams: An Experimental Study"*
 
 Slides of the work can be found [here](https://speakerdeck.com/coolwanglu/quantiles-over-data-streams-an-experimental-study), but note that the algorithms introduced in the slides are (much) simplified versions.
 
+All the source code are licensed under the MIT license.
 
